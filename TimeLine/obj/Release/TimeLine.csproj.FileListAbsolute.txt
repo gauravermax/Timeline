@@ -8,3 +8,4 @@ H:\Projects\TimeLine\TimeLine\TimeLine\obj\Release\TimeLine.exe
 H:\Projects\TimeLine\TimeLine\TimeLine\obj\Release\TimeLine.pdb
 H:\Projects\TimeLine\TimeLine\TimeLine\bin\Release\TimeLine.exe
 H:\Projects\TimeLine\TimeLine\TimeLine\bin\Release\TimeLine.pdb
+H:\Projects\TimeLine\TimeLine\TimeLine\obj\Release\TimeLine.csprojResolveAssemblyReference.cache

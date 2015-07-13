@@ -9,9 +9,9 @@ namespace TimeLine.Business
 {
     public class Repository : IRepository
     {
-        private static List<User> users;
-        private static List<Wall> lstWalls;
-        private static List<Suscribe> lstsuscription;
+        private  List<User> users;
+        private  List<Wall> lstWalls;
+        private  List<Suscribe> lstsuscription;
       
 
         //Constructor to fill some predefine data
